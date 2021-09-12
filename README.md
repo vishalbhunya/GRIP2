@@ -1,4 +1,4 @@
-# GRIP2
+# GRIP
 #Task 1 (The Sparks Foundation)
 
 Data Science & Business Analytics
