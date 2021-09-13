@@ -13,4 +13,4 @@ In this regression task we will predict the percentage of marks that a student i
 
 Language : Python
 
-IDE : Google Colab
+IDE : Jupyter Notebook
